@@ -23,3 +23,19 @@
         <button class="sidebar-btn"></button>
 <aside class="sidebar" id="sidebar">
   <nav>
+    <tr><td><a href="/book/zh">简体中文</a>,</td></tr>
+  </table>
+</p>
+<p>
+  Partial translations available in
+  <table>
+    <tr><td><a href="/book/cs">Čeština</a>,</td></tr>
+    <tr><td><a href="/book/mk">Македонски</a>,</td></tr>
+    <tr><td><a href="/book/pl">Polski</a>,</td></tr>
+    <tr><td><a href="/book/sr">Српски</a>,</td></tr>
+    <tr><td><a href="/book/uz">Ўзбекча</a>,</td></tr>
+    <tr><td><a href="/book/zh-tw">繁體中文</a>,</td></tr>
+  </table>
+</p>
+<p>
+  Translations started for
