@@ -33,9 +33,3 @@
     <tr><td><a href="/book/mk">Македонски</a>,</td></tr>
     <tr><td><a href="/book/pl">Polski</a>,</td></tr>
     <tr><td><a href="/book/sr">Српски</a>,</td></tr>
-    <tr><td><a href="/book/uz">Ўзбекча</a>,</td></tr>
-    <tr><td><a href="/book/zh-tw">繁體中文</a>,</td></tr>
-  </table>
-</p>
-<p>
-  Translations started for
