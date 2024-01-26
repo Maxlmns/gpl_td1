@@ -13,3 +13,13 @@
   <form id="search" action="/search/results">
     <input id="search-text" name="search" placeholder="Search entire site..." autocomplete="off" type="text" />
   </form>
+
+</header>
+
+  </div> <!-- .inner -->
+
+    <div class="inner">
+      <div id="content-wrapper">
+        <button class="sidebar-btn"></button>
+<aside class="sidebar" id="sidebar">
+  <nav>
